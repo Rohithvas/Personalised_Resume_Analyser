@@ -1,7 +1,7 @@
 
 from ResumeParser import EnhancedResumeParser
 
-resume_path = r"C:\Users\kushal cherukula\Documents\Resume.pdf"
+resume_path = r"C:\Users\Rohithvas\Documents\Resume.pdf"
 
 parser = EnhancedResumeParser()
 
