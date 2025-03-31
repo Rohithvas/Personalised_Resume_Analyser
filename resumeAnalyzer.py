@@ -348,7 +348,7 @@ def run():
         ad_password = st.text_input("Password", type='password')
         if st.button('Login'):
             if ad_user == 'machine_learning_hub' and ad_password == 'mlhub123':
-                st.success("Welcome Kushal")
+                st.success("Welcome Rohithvas")
                 # Display Data
                 cursor.execute('''SELECT * FROM user_data''')
                 data = cursor.fetchall()
